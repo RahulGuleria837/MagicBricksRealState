@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\appartment.png",
+      "PackagePath": "staticwebassets\\appartment.png"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\hotel.png",
+      "PackagePath": "staticwebassets\\hotel.png"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\house.png",
+      "PackagePath": "staticwebassets\\house.png"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep1.jpg",
+      "PackagePath": "staticwebassets\\imagep1.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep10.jpg",
+      "PackagePath": "staticwebassets\\imagep10.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep11.jpg",
+      "PackagePath": "staticwebassets\\imagep11.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep12.jpg",
+      "PackagePath": "staticwebassets\\imagep12.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep2.jpg",
+      "PackagePath": "staticwebassets\\imagep2.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep3.jpg",
+      "PackagePath": "staticwebassets\\imagep3.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep4.jpg",
+      "PackagePath": "staticwebassets\\imagep4.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep5.jpg",
+      "PackagePath": "staticwebassets\\imagep5.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep6.jpg",
+      "PackagePath": "staticwebassets\\imagep6.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep7.jpg",
+      "PackagePath": "staticwebassets\\imagep7.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep8.jpg",
+      "PackagePath": "staticwebassets\\imagep8.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\imagep9.jpg",
+      "PackagePath": "staticwebassets\\imagep9.jpg"
+    },
+    {
+      "Id": "C:\\RealState\\Real-Estate-Api\\RealEstateApi\\RealEstateApi\\wwwroot\\penthouse.png",
+      "PackagePath": "staticwebassets\\penthouse.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RealEstateApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RealEstateApi.props",
+      "PackagePath": "build\\RealEstateApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RealEstateApi.props",
+      "PackagePath": "buildMultiTargeting\\RealEstateApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RealEstateApi.props",
+      "PackagePath": "buildTransitive\\RealEstateApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
